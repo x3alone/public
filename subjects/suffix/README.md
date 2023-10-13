@@ -25,6 +25,6 @@ and the output should be:
 
 ```console
 $ node index.js
-"elloHer, orldwer! hisTwer is Her a estwer."
+elloHer, orldwer! hisTwer is Her a estwer.
 $
 ```
