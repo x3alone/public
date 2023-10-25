@@ -14,7 +14,7 @@ If the values of the array is not an integer, return false.
 ### Expected Function
 
 ```js
-function sortReloaded(arrayIntg,dir)
+function sortBydir(arrayIntg,dir)
 
 ```
 
@@ -24,8 +24,8 @@ Here is a program to test your function.
 
 ```js
 const inputArray = [4, 2, 8, 1, 5];
-const ascendingResult = orderArray(inputArray);
-const descendingResult = orderArray(inputArray, 'desc');
+const ascendingResult = sortBydir(inputArray);
+const descendingResult = sortBydir(inputArray, 'desc');
 console.log(ascendingResult);
 console.log(descendingResult);
 ```
